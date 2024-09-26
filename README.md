@@ -8,7 +8,7 @@
   - [Stakeholders presentation]()
 - <b>Networks and Network Security</b>
   - [Analyze Network Traffic with TCPDump]()
-  - [Capturing Traffic and Observing Webiste Traffic with Wireshark]()
+  - [Capturing Traffic and Observing Website Traffic with Wireshark]()
   - [Microsoft Windows Defender and Firewall]()
   - [Incident Report Analysis]()
 - <b>Linux, SQL, and Python</b>
