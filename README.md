@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Managing Security Risks</b>
+- <b>GRC Fundamentals Practicum at Cyversity</b>
   - [Conducting a Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Networks and Network Security</b>
   - [Analyze Network Traffic with TCPDump](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
@@ -23,6 +23,7 @@
 
 <h2>📄 Certifications</h2>
 
+- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/043a9ae6-6990-47e3-b67b-1fe0709a2e4f)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/TXD395XY6WSY)
 
 
