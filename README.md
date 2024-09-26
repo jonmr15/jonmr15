@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>GRC Fundamentals Practicum at Cyversity</b>
+- <b>GRC Fundamentals Practicum</b>
   - [Conducting a Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Networks and Network Security</b>
   - [Analyze Network Traffic with TCPDump](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
